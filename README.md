@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Spookfu, currently a college student studying Computer Engineering. You'll mostly see stuff related to Minecraft like mods, maps, etc. Currently learning Java, JavaScript, and C.
 <!--
 **Spookfu/Spookfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
